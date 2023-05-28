@@ -14,7 +14,7 @@ To run this script, make sure you have Python installed on your system. The scri
 You can execute the script using the following command:
 
 ```
-python tripphrase_generator.py [secret]
+python tripphrase.py [secret]
 ```
 
 ### Arguments
@@ -44,7 +44,7 @@ The script requires word sources in the form of text files with one word per lin
 - Generate tripphrase from a random secret:
 
   ```
-  $ python tripphrase_generator.py
+  $ python tripphrase.py
   ```
 
   Output:
@@ -55,7 +55,7 @@ The script requires word sources in the form of text files with one word per lin
 - Generate tripphrase from a specific secret:
 
   ```
-  $ python tripphrase_generator.py my_secret
+  $ python tripphrase.py my_secret
   ```
 
   Output:
