@@ -1,5 +1,5 @@
 ## Tripphrase
-<p align="center"><img src="https://s3.ancz.dev/tripphrase.png" /></p>
+![tripphrase](https://s3.ancz.dev/tripphrase.png)
 A tripphrase is a variant of a tripcode, which is used as a means for users to preserve their identity on platforms like 4chan and similar message boards. While a tripcode is a jumbled sequence of letters and numbers generated from a password, a tripphrase is a grammatically valid short phrase generated from a password. The tripphrase is more memorable, fun, and likely to be used compared to traditional tripcode.
 
 Tripphrase address two main problems with tripcodes: their lack of usage and lack of attention. Tripphrase are more likely to be used because users can generate funny or interesting phrases, turning the process into a game. They can proudly display their tripphrases, demonstrating their achievement and possessing unique knowledge. Tripphrase are also more likely to be noticed because they are meaningful, making imposters more easily recognizable.
